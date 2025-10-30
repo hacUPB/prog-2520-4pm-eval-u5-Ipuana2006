@@ -1,0 +1,6 @@
+fp = open("C:\\repo-programacion2025-20\\prog-2520-4pm-eval-u5-Ipuana2006\\archivos\\texto.txt","r")
+datos = fp.read(5)
+print(datos)
+datos = fp.read(5)
+print(datos)
+fp.close()
