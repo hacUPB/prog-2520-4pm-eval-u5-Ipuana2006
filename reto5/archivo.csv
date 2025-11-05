@@ -1,0 +1,58 @@
+VIGENCIA;NOMBRE AEROPUERTO;CIUDAD;DEPARTAMENTO;OPERACI”N;INDICADOR (OASI);INDICADOR (IATA);ELEVACCI”N (PIES);ELEVACI”N (METROS);TEMPERATURA (∞C);LATITUD;LONGITUD
+2025;Alcides Fernandez;acandi;choco;nacional;skad;acd;30;9;0;8498266667;-7727401389
+2025;Hacaritama;aguachica;cesar;nacional;skag;hay;554;169;0;8246333333;-7357954722
+2025;Antonio Roldan Betancourt;apartado;antioquia;nacional;sklc;apo;52;16;34;781175;-7671644167
+2025;Araracuara;araracuara;caqueta;nacional;skac;acr;800;244;0;607527778;-7239811389
+2025;Santiago Perez Quiroz;arauca;arauca;nacional;skuc;auc;423;129;35;7068911111;-7073695833
+2025;Jose Celestino Mutis;bahia solano;choco;nacional;skbs;bsc;79;24;30;6203111111;-7739497222
+2025;Ernesto Cortissoz;barranquilla;atlantico;internacional;skbq;baq;95;29;33;1088946111;-7478067778
+2025;El Dorado;bogota;bogota;internacional;skbo;bog;8,358;2548;20;47016;-7414694444
+2025;Palonegro;bucaramanga;santander;internacional;skbg;bga;3,901;1189;28;7126380556;-73184725
+2025;Gerardo Tobar Lopez;buenaventura;valle del cauca;nacional;skbu;bun;44;13;34;3819572222;-7698990556
+2025;Alfonso Bonilla Aragon;cali;valle del cauca;internacional;skcl;clo;3,162;964;33;3543111111;-7638169167
+2025;Rafael NuÒez;cartagena;bolivar;internacional;skcg;ctg;7;2;32;1044204167;-7551277778
+2025;Juan H. White;caucasia;antioquia;nacional;skcu;caq;207;63;0;7980222222;-7519815278
+2025;Mandinga;condoto;choco;nacional;skcd;cog;166;51;0;5071961111;-76676625
+2025;Las Brujas;corozal;sucre;nacional;skcz;czu;565;172;35;9332597222;-7528522222
+2025;Camilo Daza;cucuta;nte de santander;internacional;skcc;cuc;1,089;332;34;7927388889;-7251158889
+2025;El Tomin;el bagre;antioquia;nacional;skeb;ebg;177;54;0;7595786111;-74809
+2025;Santiago Vila;flandes;cundinamarca;nacional;skgi;gir;902;275;30;4275347222;-7479608889
+2025;Gustavo Artunduaga Paredes;florencia;caqueta;nacional;skfl;fla;792;241;33;1589263889;-7556443056
+2025;Juan Casiano;guapÌ;cauca;nacional;skgp;gpi;32;10;0;2570030556;-7789798889
+2025;Cesar Gaviria;inÌrida;guainia;nacional;skpd;pda;325;99;32;3854258333;-6790646667
+2025;San Luis;ipiales;nari√±o;nacional;skip;ipi;9,76;2975;21;861488889;-7766750833
+2025;Virgilio Barco Vargas;la chorrera;amazonas;nacional;skhz;lch;593;181;0;-1456361111;-7280108333
+2025;El Refugio;la macarena;meta;nacional;skna;lmc;778;237;29;2173533333;-7378617778
+2025;La Pedrera;la pedrera;amazonas;nacional;sklp;lpd;262;80;0;-1324347222;-6958159722
+2025;Alfredo Vasquez Cobo;leticia;amazonas;internacional;sklt;let;271;83;31;-4191908333;-6994220278
+2025;Enrique Olaya Herrera;medellin;antioquia;nacional;skmd;mde;4,922;1500;29;6220477778;-7559042778
+2025;Fabio A Leon Bentley;mit√∫;vaupes;nacional;skmu;mvp;557;170;32;1253552778;-7023405833
+2025;San Bernardo;mompox;bolivar;nacional;skmp;mmp;72;22;0;9258472222;-7443833333
+2025;El Pindo;montelibano;cordoba;nacional;skml;mtb;157;48;0;7972005556;-7543266111
+2025;Benito Salas;neiva;huila;nacional;sknv;nva;1,482;452;35;2950286111;-7529402222
+2025;Reyes Murillo;nuqu√≠;choco;nacional;sknq;nqu;16;5;0;5711244444;-7726099444
+2025;Aguas Claras;oca√±a;nte de santander;nacional;skoc;ocv;3,839;1170;19;8315108333;-7335841944
+2025;Juan Jose Rondon;paipa;boyaca;nacional;skpa;ron;8,174;2491;14;5764961111;-7310531111
+2025;Contador;pitalito;huila;nacional;skpi;ptx;4,221;1287;0;1857708333;-7608598611
+2025;Pizarro;pizarro;choco;nacional;sqzj;pzr;16;5;0;4964330556;-7736655556
+2025;Guillermo Leon Valencia;popayan;cauca;nacional;skpp;ppn;5,687;1733;25;2454352778;-7660979722
+2025;El Embrujo;providencia;san andres y providencia;nacional;skpv;pva;16;5;32;1335716389;-81357925
+2025;Tres De Mayo;puerto as√≠s;putumayo;nacional;skas;puu;813;248;32;505705556;-7650070833
+2025;German Olano;puerto carre√±o;vichada;nacional;skpc;pcr;177;54;36;6185111111;-6749250833
+2025;Caucaya;puerto legu√≠zamo;putumayo;nacional;sklg;lqm;626;191;0;-181983333;-7477098889
+2025;El CaraÒo;quibd√≥;choco;nacional;skui;uib;204;62;31;5690797222;-7664121944
+2025;Gustavo Rojas Pinilla;san andr√©s;san andres y providencia;internacional;sksp;adz;18;5;30;1258366111;-8171133889
+2025;Los Pozos;san gil;santander;nacional;sksg;lpz;5,579;1700;0;6590641667;-7312903333
+2025;San Jose Del Guaviare;san jos√©;san jose del guaviare;nacional;sksj;sje;613;187;33;2579330556;-7263938611
+2025;San Vicente Del Caguan;san vicente;san vicente del caguan;nacional;sksv;svc;879;268;30;2152280556;-7476647778
+2025;Colonizadores;saravena;arauca;nacional;sksa;auc;672;205;28;6950366667;-7185620278
+2025;Gustavo Vargas;tame;arauca;nacional;sktm;tme;1,241;378;29;6451005556;-7176005
+2025;Tarapaca;tarapaca;amazonas;nacional;skra;tap;243;74;0;-2895741667;-6974968056
+2025;Tibu;tibu;nte de santander;nacional;sktb;tbu;171;52;0;86315;-7273122222
+2025;Timbiqui;timbiqui;cauca;nacional;skmb;tbd;16;5;0;2778555556;-7766802778
+2025;Golfo De Morrosquillo;tolu;sucre;nacional;sktl;tlu;7;2;28;9509633333;-7558602778
+2025;La Florida;tumaco;nari√±o;nacional;skco;tco;20;6;30;1814411111;-7874925278
+2025;Villagarzon;villagarz√≥n;putumayo;nacional;skvg;vgz;1,24;378;0;981166667;-7660380556
+2025;Vanguardia;villavicencio;meta;nacional;skvv;vvc;1,381;421;32;4168405556;-7361465833
+2025;El Alcaravan;yopal;casanare;nacional;skyp;eyp;1,027;313;33;5319097222;-7238404167
+2025;Arturo Michelena;valencia;venezuela;internacional;svva;vln;1,417;432;31;1015;-67923
