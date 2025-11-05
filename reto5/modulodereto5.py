@@ -4,7 +4,7 @@ import csv
 import matplotlib.pyplot as plt
 
 
-
+# ------------------ Archivo.txt -----------------
 
 def listar_archivos():
     ruta = input(" Ingresá la ruta (dejar vacío para usar la carpeta actual): ").strip()
@@ -83,7 +83,7 @@ def submenu_txt(ruta):
         else:
             print(" Opción inválida, intentá de nuevo.")
 
-
+# ------------------ Archivo.csv ------------------------
 
 def mostrar_15_filas(ruta):
     try:
@@ -224,7 +224,7 @@ def graficar_columna(ruta):
         except UnicodeDecodeError:
             continue
     else:
-        print("❌ No se pudo leer el archivo con ninguna codificación conocida.")
+        print(" No se pudo leer el archivo con ninguna codificación conocida.")
 
 
 
